@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/47572837/80670606-fb25c100-8ac4-11ea-9d80-2515ce342746.jpg" width="100%"></img> 
+
 ## 🧰 What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)
